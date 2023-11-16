@@ -34,6 +34,5 @@ def tan(number):
     return
 
 
-
 if __name__ == "__main__":
     geometric_func()
