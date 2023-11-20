@@ -9,7 +9,7 @@ import pandas as pd
 
 @click.group()
 def geometric_func():
-    """waits for either sin or tan command then runs the respective function"""
+    """Input sin or tan to run the respective function"""
     pass
 
 
